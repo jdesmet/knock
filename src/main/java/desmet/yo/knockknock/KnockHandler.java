@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author jd3714
+ * @author Jo Desmet
  */
 public class KnockHandler extends Thread {
   private static final Logger LOGGER = Logger.getLogger(KnockHandler.class.getName());
